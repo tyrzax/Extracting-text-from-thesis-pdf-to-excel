@@ -4,6 +4,3 @@ The intend of this project is to help the Department of Foreign Literature from 
 The goal is to extract thesis titles, author names, affiliated institutions, abstracts, keywords, the studied author name, the nationalities of the studied author, funding program, the method of the studying, journal titles and the issue of the journal. Then put them in an Excel sheet in respective columns. If there is no such information then it will not be recorded.
 
 This little project is possible with the help and advices of **Yuqing Ye** and **Yifei Li**, the Master's students at Zhejiang University.
-
-## How to use
-
